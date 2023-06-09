@@ -1,4 +1,4 @@
-# Exp-17-QB TREE 
+# Exp-17-B TREE 
 
 ### PROGRAM STATEMENT:-
 Write The Findmin module of the B Tree in C++  
