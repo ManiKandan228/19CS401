@@ -1,4 +1,4 @@
-## EXP-03-C++ CONSTRUCTORS AND DESTRUCTORS 
+## Exp-03-C++ CONSTRUCTORS AND DESTRUCTORS 
 
 ## PROGRAM STATEMENT:-
 Write a C++ program to display "Saveetha Engineering college!!!" using default constructor. 
