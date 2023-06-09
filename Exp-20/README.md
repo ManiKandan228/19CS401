@@ -17,7 +17,7 @@ void preOrder(struct node *root)
 
 ```
 ### OUTPUT:-
-![Uploading image.png…]()
+![image](https://github.com/ManiKandan228/19CS401/assets/119160414/56180485-629e-4fea-b7b5-3df69d62cef6)
 
 ### RESULT:-
 Thus, the C++ program has been executed successfully. 
