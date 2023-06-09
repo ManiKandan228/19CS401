@@ -1,10 +1,10 @@
 
 ## EXP-02-CLASS SCOPE AND ACCESSING CLASS MEMBERS & REFERENCE VARIABLES
 
-## PROGRAM STATEMENT:
- 	Write a C++ program to find out the total & average of 5 marks without using array(define the class methods outside the class)
-  
-PROGRAM: 
+## PROGRAM STATEMENT:-
+ Write a C++ program to find out the total & average of 5 marks without using array(define 
+the class methods outside the class) 
+## PROGRAM: 
 ```
 #include<iostream>
 using namespace std;
